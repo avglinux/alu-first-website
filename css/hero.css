@@ -19,9 +19,15 @@ h2{
 	font-size: 40px;
 }
 
+.content{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
 header{
 	padding: 40px;
-	background: #00002E url('../img/bg.jpg');
+	background: #00002E url('../img/bg.jpg') center center no-repeat;
+	background-size: cover;
 }
 
 header img{
