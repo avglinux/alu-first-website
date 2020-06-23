@@ -10,14 +10,14 @@ header{
 }
 
 h1{
-	font-size: 90px;
+	font-size: 70px;
 	color: white;
 }
 
 header img{
 	border-radius: 174px;
-    width: 300px;
-    border: 24px solid #CC0000;
+    width: 250px;
+    border: 10px solid #4f8dff;
 }
 
 .content{
@@ -27,13 +27,15 @@ header img{
 }
 
 img.big-image{
+	margin-top: 20px;
 	max-width: 100%;
 }
 
 p.caption{
 	font-size: 16px;
-	color: lightgrey;
+	color: grey;
 	font-style: italic;
+	text-align: center;
 }
 
 ul{
